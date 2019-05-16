@@ -3,3 +3,6 @@
 
 #Cached Data
 *.pyc
+
+# Config files
+syncfile/config.py
