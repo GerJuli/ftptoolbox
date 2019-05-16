@@ -6,3 +6,7 @@
 
 # Config files
 syncfile/config.py
+
+# Egg
+*.egg-info
+

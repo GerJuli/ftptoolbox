@@ -7,10 +7,10 @@ setup(
     long_description='Toolbox for backups and sync of files and directories',
     author='Julian-Samuel Gebuehr',
     author_email='julian-samuel@gebuehr.net',
-    url='https://github.com/translationalneurosurgery/ftptools.git',
-    download_url='https://github.com/translationalneurosurgery/ftptools.git',
+    url='https://github.com/GerJuli/ftptools.git',
+    download_url='https://github.com/GerJuli/ftptools.git',
     license='MIT',
-    packages=['backup', 'sync_file'],
+    packages=['base', 'backup', 'syncfile'],
     classifiers=[
         'Development Status :: 4 - Beta',
         'Environment :: Console',
